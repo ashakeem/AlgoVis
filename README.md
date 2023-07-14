@@ -65,10 +65,5 @@ The program uses a canvas widget to display the data visually. Each element in t
 
 The visualization is updated step-by-step to demonstrate the progress of the algorithm. A delay of 0.1 seconds is introduced between each step to make the visualization more apparent.
 
-## Contributing
 
-Contributions to this project are welcome. If you have any suggestions or improvements, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your own purposes.
